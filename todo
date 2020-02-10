@@ -1,0 +1,13 @@
+icann-TLD-reports
+-----------------
+- work columns.sh into the body of the script itself
+- look at alternatives for the output of the script while the download is running
+
+columns.sh
+-----------------
+- think of a more ergonomic name
+- rework core logic
+	- allow to get all
+	- default to getting domain count
+- work into the flow of the core script
+
