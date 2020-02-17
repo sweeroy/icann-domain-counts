@@ -3,7 +3,7 @@
 rand=$RANDOM
 
 ## get user input. tput colours the text, sgr0 removes all formatting
-tput setaf 3; echo "This is a tool to download reports from the ICANN website for various TLD's. If you are looking to get data from the reports, run the columns.sh script"
+tput setaf 3; echo "This is a tool to download reports from the ICANN website for various TLD's. If you are looking to get data from the reports, run the data.sh script"
 tput sgr0
 read -p "Please enter the TLD which you would like to download the reports for: " input
 
